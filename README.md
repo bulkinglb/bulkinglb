@@ -11,9 +11,9 @@ Dedicated Developer
                   </p>
                   
 
-                ### Socials
+### Socials
                 
-                <p align="left"> <a href="https://www.github.com/bulkinglb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/bulkinglb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
 ### Badges
 
@@ -22,5 +22,3 @@ Dedicated Developer
 <a href="http://www.github.com/bulkinglb"><img src="https://github-readme-stats.vercel.app/api?username=bulkinglb&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="bulkinglb's GitHub stats" /></a>
 
 <a href="https://github.com/bulkinglb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulkinglb&langs_count=10&title_color=0f172a&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
