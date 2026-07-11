@@ -1,3 +1,5 @@
+
+![Introcard](https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/intro-card.gif)
 ![Skills](https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/skills-ticker.gif)
 ![Terminal](https://raw.githubusercontent.com/bulkinglb/readme-frames/master/assets/terminal.gif)
                   
